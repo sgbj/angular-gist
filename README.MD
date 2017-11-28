@@ -1,5 +1,7 @@
 # angular-gist
 
+Embed GitHub Gists in your Angular apps without an iframe.
+
 ## Installation
 
 To install this library, run:
