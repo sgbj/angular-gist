@@ -1,0 +1,29 @@
+{
+  "name": "@sgbj/angular-gist",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgbj/angular-gist"
+  },
+  "author": {
+    "name": "sgbj",
+    "email": "scott@batary.io"
+  },
+  "keywords": [
+    "angular", "github", "gist"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgbj/angular-gist/issues"
+  },
+  "main": "angular-gist.umd.js",
+  "module": "angular-gist.js",
+  "jsnext:main": "angular-gist.js",
+  "typings": "angular-gist.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "postscribe": "^2.0.8",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
