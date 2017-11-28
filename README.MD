@@ -56,6 +56,8 @@ class AppComponent {
 }
 ```
 
+[View an example.](https://stackblitz.com/edit/angular-dnbv3e)
+
 ## Development
 
 To generate all `*.js`, `*.d.ts` and `*.metadata.json` files:
