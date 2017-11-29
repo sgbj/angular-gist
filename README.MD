@@ -1,4 +1,4 @@
-# angular-gist
+# [@sgbj/angular-gist](https://www.npmjs.com/package/@sgbj/angular-gist)
 
 Embed GitHub Gists in your Angular apps without an iframe.
 
@@ -56,7 +56,7 @@ class AppComponent {
 }
 ```
 
-[View an example.](https://stackblitz.com/edit/angular-dnbv3e)
+[View demo.](https://stackblitz.com/edit/angular-dnbv3e)
 
 ## Development
 
